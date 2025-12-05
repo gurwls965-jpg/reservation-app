@@ -1,0 +1,12 @@
+{
+  "name": "reservation-server",
+  "version": "1.0.0",
+  "description": "Shared reservation API and frontend for December schedule",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.0"
+  }
+}
